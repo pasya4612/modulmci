@@ -488,3 +488,5 @@ Settings → Admin → Databases → Add Database → ClickHouse
 ```
 
 ---
+<img width="1022" height="1004" alt="image" src="https://github.com/user-attachments/assets/afafe367-9014-4e9e-ab69-8327597c1163" />
+
