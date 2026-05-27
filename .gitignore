@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Data Lake (file sementara, tidak perlu di-commit)
+data_lake/
+
+# Metabase runtime files (H2 database internal Metabase)
+metabase-plugins/*.db
+metabase-plugins/*.db.mv.db
+metabase-plugins/*.db.trace.db
+
+# ClickHouse local data
+clickhouse_data/
+
+# Airflow logs
+logs/
+airflow_logs/
+
+# Environment variables
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
