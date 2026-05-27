@@ -1,3 +1,10 @@
+| Nama | NRP |
+| --- | --- | 
+| Ary Pasya Fernanda | 5025241053 | 
+| Erica Triana Widyastuti | 5025241069 | 
+
+
+
 # Orders Analytics Pipeline
 ### Micro-Batch Data Engineering: Apache Airflow · PySpark · ClickHouse · Metabase
 
